@@ -14,7 +14,7 @@ BIBLIOTECAS UTILIZADAS : O projeto utiliza as seguintes bibliotecas do Java:
 
 COMO RODAR O PROGRAMA :
 - Certifique-se de ter o Intellij para ler o sistema em Java.
-- Salve o repositorio abaixo :
+- Salve o repositorio
 
 - Abra o seu programa e importe o projeto:
     Clique em "File" (Arquivo) no menu superior.
