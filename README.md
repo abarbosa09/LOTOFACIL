@@ -8,9 +8,9 @@ REQUISITOS
 Versão JDK 20.0.2 - INTELLIJ
 
 BIBLIOTECAS UTILIZADAS : O projeto utiliza as seguintes bibliotecas do Java:
-    java.util.Scanner: Para ler entradas do teclado.
-    java.util.Random: Para gerar números aleatórios.
-    java.io.IOException: Para lidar com exceções de entrada/saída.
+   - java.util.Scanner: Para ler entradas do teclado.
+   - java.util.Random: Para gerar números aleatórios.
+  - java.io.IOException: Para lidar com exceções de entrada/saída.
 
 COMO RODAR O PROGRAMA :
 - Certifique-se de ter o Intellij para ler o sistema em Java.
